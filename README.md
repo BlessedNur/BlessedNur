@@ -2,9 +2,6 @@
 
 ### 🚀 Full Stack Developer & DevOps Engineer
 
-<div align="center">
-  <img src="https://api.placeholder.com/400/200" alt="banner" width="100%" height="auto"/>
-</div>
 
 ## 👨‍💻 About Me
 
@@ -71,9 +68,5 @@ I'm a passionate Full Stack Developer and DevOps Engineer who loves to build and
 ---
 
 <div align="center">
-  <img src="https://api.placeholder.com/800/100" alt="footer banner" width="100%" height="auto"/>
-  
-  ### "Code is poetry, infrastructure is art." 
-  
   ![Profile Views](https://komarev.com/ghpvc/?username=BlessedNur&color=brightgreen)
 </div>
