@@ -55,8 +55,7 @@ I'm a passionate Full Stack Developer and DevOps Engineer who loves to build and
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/blessed-nur-4787b12b2)
-- Email: blessed
+- LinkedIn: [Blessed Nur](https://linkedin.com/in/blessed-nur-4787b12b2)
 
 ## 🎉 Fun Facts
 
