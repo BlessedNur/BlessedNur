@@ -39,9 +39,9 @@ I'm a passionate Full Stack Developer and DevOps Engineer who loves to build and
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📊 GitHub Stats
-<p >
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BlessedNur&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BlessedNur&theme=radical" alt="GitHub Streak" />
+<p align="center">
+  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=BlessedNur&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=BlessedNur&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## 📈 Contributions
