@@ -1,34 +1,8 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Nur Blessed
 </h1>
 
-<h3 align="center"><svg width="40" height="40" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .flame { animation: flicker 0.6s infinite; transform-origin: center; }
-    .rocket { animation: shake 0.5s infinite; transform-origin: center; }
-    @keyframes flicker {
-      0% { transform: scaleY(0.8); opacity: 0.8; }
-      50% { transform: scaleY(1.2); opacity: 1; }
-      100% { transform: scaleY(0.8); opacity: 0.8; }
-    }
-    @keyframes shake {
-      0% { transform: translateY(0); }
-      50% { transform: translateY(-2px); }
-      100% { transform: translateY(0); }
-    }
-  </style>
-  <!-- Rocket body -->
-  <g class="rocket">
-    <path fill="#4B4B4B" d="M20 5c-3 6-3 11-3 15h6c0-4 0-9-3-15z"/>
-    <path fill="#CC0000" d="M20 3c-2 0-4 8-4 17h8c0-9-2-17-4-17z"/>
-    <!-- Rocket window -->
-    <circle cx="20" cy="12" r="1.5" fill="#6699FF"/>
-  </g>
-  <!-- Flame -->
-  <g class="flame">
-    <path fill="#FF9900" d="M16 20h8l-4 7z"/>
-    <path fill="#FF0000" d="M17 20h6l-3 5z"/>
-  </g>
-</svg> Full Stack Developer & DevOps Engineer
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="25" width="25"/> Full Stack Developer & DevOps Engineer
 </h3>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> About Me
