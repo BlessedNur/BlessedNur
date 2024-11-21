@@ -66,7 +66,6 @@ I'm a passionate Full Stack Developer and DevOps Engineer who loves to build and
 - ☁️ Cloud enthusiast
 
 ---
-
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=BlessedNur&color=brightgreen)
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlessedNur&color=brightgreen" alt="Profile Views Counter">
+</p>
