@@ -1,7 +1,7 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Nur Blessed
 </h1>
 
-<h3 align="center">
+<h3 align="">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="25" width="25"/> Full Stack Developer & DevOps Engineer
 </h3>
 
@@ -49,7 +49,7 @@ I'm a passionate Full Stack Developer and DevOps Engineer who loves to build and
 </p>
 
 ## GitHub Stats
-<p align="center">
+<p align="">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlessedNur&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BlessedNur&theme=radical" alt="GitHub Streak" />
 </p>
