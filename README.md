@@ -50,8 +50,8 @@ I'm a passionate Full Stack Developer and DevOps Engineer who loves to build and
 
 ## GitHub Stats
 <p align="">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlessedNur&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BlessedNur&theme=radical" alt="GitHub Streak" />
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=BlessedNur&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=BlessedNur&theme=radical" alt="GitHub Streak" />
 </p>
 
 ## Contributions
