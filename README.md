@@ -65,7 +65,3 @@ I'm a passionate Full Stack Developer and DevOps Engineer who loves to build and
 - 🎮 Love solving complex problems
 - ☁️ Cloud enthusiast
 
----
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlessedNur&color=brightgreen" alt="Profile Views Counter">
-</p>
