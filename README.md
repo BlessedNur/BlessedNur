@@ -9,9 +9,6 @@
 
 I'm a passionate Full Stack Developer and DevOps Engineer who loves to build and deploy scalable applications. With expertise in modern web technologies and cloud infrastructure, I bridge the gap between development and operations to create efficient, maintainable solutions.
 
-[![GitHub followers](https://img.shields.io/github/followers/BlessedNur?style=social)](https://github.com/BlessedNur)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/blessednur)
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Frontend" width="25" height="25" /> Frontend Development
