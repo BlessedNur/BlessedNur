@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="25" height="25" /> About Me
 
-I'm a passionate Full Stack Developer and DevOps Engineer who loves to build and deploy scalable applications. With expertise in modern web technologies and cloud infrastructure, I bridge the gap between development and operations to create efficient, maintainable solutions.
+I design and deploy scalable applications as a Full Stack Developer and DevOps Engineer. Leveraging expertise in modern web technologies and cloud infrastructure, I focus on uniting development and operations to deliver seamless, high-performance solutions.
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" height="25" /> Tech Stack
 
