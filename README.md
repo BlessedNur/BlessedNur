@@ -119,9 +119,6 @@ const nurBlessed = {
 ### 🎯 What I'm Working On
 *This section reflects my current focus areas - update as needed*
 
-### 💡 My Contributions
-![GitHub Activity](https://github-readme-stats.vercel.app/api?username=BlessedNur&show_icons=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&custom_title=Total%20Contributions)
-
 **Recent Activity:**
 - 📈 Check out my [repositories](https://github.com/BlessedNur?tab=repositories) for latest projects
 - 🔄 Follow my [contribution activity](https://github.com/BlessedNur) in real-time
