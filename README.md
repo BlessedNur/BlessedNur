@@ -103,7 +103,7 @@ const nurBlessed = {
 <tr>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BlessedNur&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BlessedNur&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&card_width=450&title_color=00d9ff&text_color=c9d1d9)
 
 </td>
 </tr>
