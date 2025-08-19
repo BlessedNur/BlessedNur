@@ -2,6 +2,14 @@
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Nur Blessed
 </h1>
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Nur Blessed
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlessedNur&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
 <h3 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="25" width="25"/> Full Stack Developer & DevOps Engineer
 </h3>
