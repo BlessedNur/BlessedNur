@@ -27,7 +27,7 @@ const nurBlessed = {
     askMeAbout: ["web dev", "tech", "devops", "cloud computing"],
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js", "Vite"],
+            js: ["React", "Next.js", "Vue.js", "Nuxt.js", "Vite"],
             css: ["Tailwind", "SASS", "Bootstrap"]
         },
         backEnd: {
@@ -51,6 +51,8 @@ const nurBlessed = {
 ### 🎨 Frontend Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
