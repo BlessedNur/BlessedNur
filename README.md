@@ -1,172 +1,245 @@
-# <h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Nur Blessed
-</h1>
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" height="35px"> Hey, I'm Nur Blessed
 
-<h3 align="left">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Microsoft-Teams-Animated-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" height="25" width="25"/> Full Stack Developer & DevOps Engineer
-</h3>
+### 🚀 Full Stack & Mobile Developer | ☁️ DevOps Engineer
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&vCenter=true&multiline=true&width=600&height=100&lines=Building+Scalable+Web+%26+Mobile+Solutions;Automating+Cloud+Infrastructure;Creating+Seamless+User+Experiences" alt="Typing SVG" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blessednur)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/blessednur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blessednur.vercel.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessednur67@gmail.com)
 
-
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=BlessedNur&style=for-the-badge&color=00d9ff)
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## 👨‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="250">
-
-I design and deploy scalable applications as a **Full Stack Developer** and **DevOps Engineer**. Leveraging expertise in modern web technologies and cloud infrastructure, I focus on uniting development and operations to deliver seamless, high-performance solutions.
-
-```javascript
+```typescript
 const nurBlessed = {
-    pronouns: "he" | "him",
-    code: ["JavaScript", "TypeScript", "Python", "HTML/CSS"],
-    askMeAbout: ["web dev", "tech", "devops", "cloud computing"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Vue.js", "Nuxt.js", "Vite"],
-            css: ["Tailwind", "SASS", "Bootstrap"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express", "NestJS"],
-            python: ["Django", "FastAPI"]
-        },
-        devOps: ["AWS", "Docker", "Kubernetes", "Jenkins"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
-        misc: ["Git", "Linux", "Grafana", "Prometheus"]
+  currentRole: "Full Stack & Mobile Developer | DevOps Engineer",
+  
+  code: {
+    languages: ["JavaScript", "TypeScript", "Python", "Dart", "HTML/CSS"],
+    passionate: ["Clean Code", "Scalable Architecture", "Cloud Native Apps"]
+  },
+  
+  technologies: {
+    frontend: {
+      frameworks: ["React", "Next.js", "Vue.js", "Nuxt.js", "Vite"],
+      styling: ["Tailwind CSS", "SASS", "Bootstrap"],
+      stateManagement: ["Redux", "Zustand", "Pinia"]
     },
-    architecture: ["Microservices", "Event-Driven", "Serverless"],
-    currentFocus: "Building scalable cloud-native applications",
-    funFact: "I debug with console.log more than I'd like to admit 😅"
+    
+    mobile: {
+      frameworks: ["Flutter", "React Native"],
+      languages: ["Dart", "JavaScript/TypeScript"]
+    },
+    
+    backend: {
+      runtime: ["Node.js", "Express", "NestJS"],
+      python: ["Django", "FastAPI"],
+      apis: ["REST", "GraphQL", "WebSocket"]
+    },
+    
+    devops: {
+      cloud: ["AWS (EC2, S3, Lambda)", "Docker", "Kubernetes"],
+      cicd: ["Jenkins", "GitHub Actions", "GitLab CI"],
+      monitoring: ["Grafana", "Prometheus"],
+      iac: ["Ansible", "Terraform"]
+    },
+    
+    databases: {
+      sql: ["PostgreSQL", "MySQL"],
+      nosql: ["MongoDB", "Firebase", "Supabase"],
+      orm: ["Prisma", "TypeORM"]
+    }
+  },
+  
+  architecture: ["Microservices", "Event-Driven", "Serverless", "MVC"],
+  
+  currentlyLearning: "Advanced Kubernetes & Service Mesh",
+  
+  funFact: "I automate everything... except my coffee making ☕",
+  
+  openToCollaborate: true
 };
 ```
 
----
+## 🛠️ Technology Arsenal
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
+### 💻 Languages & Frameworks
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 🎨 Frontend Development
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-### ⚙️ Backend Development
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### 🗄️ Database & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### 📱 Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
+
+### ⚙️ Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🗄️ Databases & Storage
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-### ☁️ DevOps & Cloud Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+### ☁️ DevOps & Cloud
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 📊 Monitoring & Analytics
+
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
+### 🧰 Tools & Workflow
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> GitHub Analytics
+## 📊 GitHub Statistics
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BlessedNur&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&ring_color=00d9ff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BlessedNur&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BlessedNur&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=BlessedNur&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+---
+
+## 🎯 What I'm Currently Doing
 
 <table>
 <tr>
 <td width="50%">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=BlessedNur&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff)
+### 🔭 Working On
+- Building cloud-native microservices
+- Cross-platform mobile apps with Flutter
+- Kubernetes orchestration projects
+- CI/CD pipeline optimization
 
 </td>
 <td width="50%">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BlessedNur&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9)
+### 🌱 Learning
+- Advanced Kubernetes & Helm
+- Service Mesh (Istio)
+- AWS Solutions Architecture
+- System Design Patterns
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BlessedNur&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&card_width=450&title_color=00d9ff&text_color=c9d1d9)
+### 💼 Open To
+- Freelance opportunities
+- Open source collaboration
+- Technical consulting
+- Mentoring developers
+
+</td>
+<td width="50%">
+
+### 💡 Ask Me About
+- Web & Mobile Development
+- DevOps & Cloud Architecture
+- API Design & Microservices
+- Code optimization
 
 </td>
 </tr>
 </table>
 
-### 📈 Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BlessedNur&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b35&area=true&hide_border=true)
+---
+
+## 🌟 Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlessedNur&repo=your-project-name&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)](https://github.com/BlessedNur/your-project-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=BlessedNur&repo=another-project&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)](https://github.com/BlessedNur/another-project)
 
 ---
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="35"> Current Focus & Projects
+## 💭 Dev Quote
 
-### 🎯 What I'm Working On
-*This section reflects my current focus areas - update as needed*
-
-**Recent Activity:**
-- 📈 Check out my [repositories](https://github.com/BlessedNur?tab=repositories) for latest projects
-- 🔄 Follow my [contribution activity](https://github.com/BlessedNur) in real-time
-- ⭐ See what I'm currently starring and following
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="35"> Let's Connect
+## 📫 Let's Connect & Collaborate
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blessednur)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/blessednur)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessednur67@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blessednur.vercel.app)
+I'm always excited to connect with fellow developers, discuss new technologies, or collaborate on interesting projects!
 
-**Always open to discussing:**
-- 💬 Web development and cloud technologies  
-- 🤝 Collaboration opportunities
-- 📝 Knowledge sharing and mentoring
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/blessednur)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/blessednur)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://blessednur.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:blessednur67@gmail.com)
+
+### 💬 Or just drop by to say hi!
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
 
 ---
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35"> About My Work
+<div align="center">
 
-### 🚀 Development Stats
-![Profile Views](https://komarev.com/ghpvc/?username=BlessedNur&style=for-the-badge&color=00d9ff)
-![Stars](https://img.shields.io/github/stars/BlessedNur?style=for-the-badge&logo=github&color=00d9ff)
+### 💼 Show some ❤️ by starring some of my repositories!
+
 ![Followers](https://img.shields.io/github/followers/BlessedNur?style=for-the-badge&logo=github&color=00d9ff)
+![Stars](https://img.shields.io/github/stars/BlessedNur?style=for-the-badge&logo=github&color=00d9ff)
 
-### 💻 Coding Philosophy
-> *"The best way to predict the future is to create it"* - Peter Drucker
-
-**My approach:** Write clean code, automate everything, monitor closely, and never stop learning! 🚀
-
----
-
-<div align="center">
-
-<div align="center">
-
-**Thanks for stopping by! Let's build something amazing together! 😊**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlessedNur/BlessedNur/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlessedNur/BlessedNur/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BlessedNur/BlessedNur/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
+**Thanks for visiting! Let's build something amazing together! 🚀**
 
 </div>
