@@ -144,6 +144,8 @@ const nurBlessed = {
 ## 📊 GitHub Statistics
 
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BlessedNur&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&ring_color=00d9ff" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=BlessedNur&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
+
 <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BlessedNur&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 ### 📈 Contribution Graph
@@ -215,6 +217,16 @@ const nurBlessed = {
 ## 💭 Dev Quote
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BlessedNur/BlessedNur/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BlessedNur/BlessedNur/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BlessedNur/BlessedNur/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
